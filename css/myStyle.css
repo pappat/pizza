@@ -1,0 +1,9 @@
+.tartalom{
+    background-image: url("../fotok/fa.jpg");
+    /*background-image: linear-gradient(rgba(255,255,255,0.5), rgba(255,255,255,0.5)), url("../fotok/fa.jpg");*/
+
+    background-size: cover;
+}
+.kapcsolat{
+    background-color: rgba(255,255,255,0.5);
+}
