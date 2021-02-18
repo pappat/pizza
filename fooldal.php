@@ -21,7 +21,7 @@ while($row=$stmt->fetch()){
 
 <section class='page-section portfolio' id='portfolio'>
  <div class='container '>
-    <h2 class="page-section-heading text-center   mt-5 ">Kínálatunk</h2>
+    <h2 class="page-section-heading text-center   mt-5 ">Kínálatunk MA</h2>
     <!--  Grid Items-->
     <div class="row justify-content-center">
         <!--  Item -->
